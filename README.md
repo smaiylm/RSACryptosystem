@@ -1,5 +1,6 @@
 # RSACryptosystem
-I re-created the RSA public key cryptosystem in my CSC 590: Selected Topics in Computer Science - Creating and Cracking Secret Codes in spring 2019.
+
+I worked independently and alone on this problem to use the Diffie–Hellman key exchange method to re-create the RSA Cryptosystem in Java. This project was done as part of my CSC 590: Selected Topics in Computer Science – Creating and Cracking Secret Codes class in Spring 2019; my project received a score of 100 out of 100. The implementation was open-ended and up to me. The task centered on re-creating the cryptosystem in a way that maintains the privacy of some numerical values while making others public. While my solution satisfied the project’s broad conditions of including “Alice” and "Bob" classes (representing two people conducting a transaction), the project further pushed my creativity and problem-solving skills as a programmer, and allowed me to analyze and compare different possible solutions and introduce my unique solution within fundamental algorithms of modern cryptography.
 
 Here are the steps to run the program:
 1. Go into bob.java class, and scroll until you find the inputM() method. This is where the user (Bob) can choose any BigInteger message. Feel free to adjust the way you would like.
